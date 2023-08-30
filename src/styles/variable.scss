@@ -1,0 +1,19 @@
+/* 
+scss全局变量
+*/
+
+// 左侧菜单宽度
+$base-menu-width: 260px;
+$base-menu-min-width: 50px;
+// 左侧菜单背景颜色
+$base-menu-background: var(--menu-bg,#001529);
+$base-tabbar-background: var(--tabbar-bg,#f7d5d5);
+$base-main-background: var(--main-bg,#fff);
+
+// 顶部导航栏高度
+$base-tabbar-height: 50px;
+
+// logo高度
+$base-logo-height: 50px;
+// logo文字大小
+$base-logo-fontSize: 24px;
